@@ -1,0 +1,8 @@
+//configuration file for nodemon-tyoescript compatibility
+
+
+{
+	"execMap:{
+		"ts": "ts-node"
+	}
+}
